@@ -3,7 +3,7 @@ desc: A local-first AI workbench for downloading, managing, chatting with, and s
 site: https://github.com/petertzy/deepLocal
 tags:
   - rust
-  - react
+  - reactjs
   - typescript
   - ai
   - local-ai
